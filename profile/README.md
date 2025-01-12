@@ -1,6 +1,6 @@
 # Solis7X
 
-![Solis7X Logo](https://via.placeholder.com/150) <!-- Replace with your company logo link -->
+![Solis7X Logo](https://gateway.pinata.cloud/ipfs/QmeLt62yEZXk822StxyUs2vESyexeEbbFD73vunv5wTkfD) <!-- Replace with your company logo link -->
 
 **Solis7X: The Future, Decentralized and Intelligent**
 
