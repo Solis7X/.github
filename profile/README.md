@@ -1,7 +1,4 @@
 # Solis7X
-
-![Solis7X Logo](https://gateway.pinata.cloud/ipfs/QmeLt62yEZXk822StxyUs2vESyexeEbbFD73vunv5wTkfD) <!-- Replace with your company logo link -->
-
 **Solis7X: The Future, Decentralized and Intelligent**
 
 Solis7X is a pioneering company in the fields of **blockchain, crypto, Web3, open source, and AI**, with a mission to bring transparency, innovation, and progress to the world of technology. We build **decentralized, intelligent, and sustainable solutions** that connect people, ideas, and technology in an open ecosystem.
